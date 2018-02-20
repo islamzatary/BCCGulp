@@ -61,7 +61,7 @@ gulp.task('copy', function() {
   .pipe(gulp.dest('assets'))
 });
 
-gulp.task('getpath', function() {
+gulp.task('getsize', function() {
   const s = size();
   gulp.src(["images/**/*.jpg", "images/**/*.png", "images/**/*.gif"].concat([]))
   .pipe(size());
