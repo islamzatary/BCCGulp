@@ -17,3 +17,9 @@ gulp $task_name
 3. optimizepng (optimize png images).
 4. optimizejpg (optimize jpg images).
 5. bundleall (collect bundle scripts + increase).
+```
+
+Done By:
+Islam AlZatary
+Abdullah Saqer
+Tayseer Emam
