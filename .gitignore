@@ -1,0 +1,21 @@
+.DS_Store
+node_modules/
+node_modules_old/
+dist/
+temp/
+public/
+package-lock.json
+#config/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+test/e2e/reports
+selenium-debug.log
+
+# Editor directories and files
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp

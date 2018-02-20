@@ -1,0 +1,35 @@
+{
+  "name": "TalenteraUiGulp",
+  "version": "1.0.0",
+  "description": "minify Talentera Js Files",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {
+    "gulp-clean": "^0.3.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-filelist": "^1.0.0",
+    "gulp-filenames": "^4.0.1",
+    "gulp-filesize": "0.0.6",
+    "gulp-foreach": "^0.1.0",
+    "gulp-image": "^2.8.0",
+    "gulp-minify": "^2.1.0",
+    "gulp-shell": "^0.6.5",
+    "gulp-size": "^2.1.0",
+    "imagemin": "^5.2.2",
+    "imagemin-jpegtran": "^5.0.2",
+    "optipng-bin": "^4.0.0",
+    "through2": "^2.0.3",
+    "chalk": "^2.3.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/islamzatary/BCCGulp.git"
+  },
+  "author": "Abdullah Saqer",
+  "license": "ISC"
+}
